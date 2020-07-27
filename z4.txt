@@ -1,0 +1,43 @@
+Ziua 4.
+==================
+1~Sper că nu mai sunt urmărit. MI-ar trebuii o pauză,
+0~0
+11~să o fac acuma~0~0
+12~să mai merg poate găsesc ceva mai sigur~-1~-1
+@5~continui să alerg poate până la Districtul Domdon~-4~-4
+-
+==================
+11~Fac un foc și mă pun la somn. După un timp aud ceva sunete...
+0~0
+111~mă duc să văd~0~0
+111~sting focu și mă pregătesc de ce e mai rău~-1~-1
+13~sting focu și o iau la fugă~-2~-2
+-
+==================
+12~Găsesc un cort langă un râu, fac un foc și mă pun la somn. După un timp aud ceva sunete...
+0~0
+111~mă duc să văd~0~0
+111~sting focu și mă pregătesc de ce e mai rău~-1~-1
+13~sting focu și o iau la fugă~-2~-2
+-
+==================
+111~Este o căprioară
+0~0
+1111~Să încerc să o vânez~-2~-2
+@5~Să îmi continui drumul către Districtul Domdon~-3~-3
+-
+-
+==================
+1111~Am reușit să o dau jos chiar lângă râu
+15~20
+13~să o iau către Domdon~-1~-1
+-
+-
+-
+==================
+13~Începe să se însereze, Până la Domdon mai am vreo 2 kilometri dar în cam 100 de metri văd o casă,
+0~0
+@5~să mă culc în casă deoarece drumul este întunecat~0~0
+@5~să îmi continui drumul către Districtul Domdon~-2~-2
+-
+-

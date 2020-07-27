@@ -1,0 +1,101 @@
+1, --- Ziua 1. Deja încep să ramân fără provizii. Ar fi bine sa ies afara. Sa ies? 
+0, 0 //cu cât se modifică mâncarea și apa
+11, Da
+112, Aștept ziua de mâine.
+-
+-
+==================
+11, Plimbându-mă prin oraș am găsit un spital destul de mare și văd un geam pe unde încap. Să îmi asum acest risc?
+-2, -2 
+111, Da
+112, Mă întorc acasă, aștept ziua de mâine.
+113, Mai dau o tură, că poate găsesc o intrare mai sigură.
+-
+==================
+111, După 10 minute observ pe un hol o lumină si o umbră de geantă. Mă apropii si văd că a mai rămas ceva prin ea.
+0, 1, 2
+112, Mă întorc acasă, aștept ziua de mâine.
+-
+-
+-
+==================
+113, În spate este o ușă pe unde pot intra mai bine. După 10 minute observ pe un hol o lumină si o umbră de geantă. Mă apropii si văd că a mai rămas ceva prin ea.
+1, 2
+112, Mă întorc acasă, aștept ziua de mâine.
+-
+-
+-
+==================
+112, --- Ziua2. Aud sunete ciudate, să arunc o privire?
+-5, -7
+1121, Da
+1122, Nu
+-
+-
+==================
+1121, Ieșit afară observ un elicopter care trece in viteză pe deasupra mea. Încerc să îi atrag atentia dar nu reușesc. Să îl urmăresc ca poate v-a ateriza pe aeroportul din apropiere ?
+0, 0
+11211, Da
+11212, Nu
+-
+-
+==================
+11211, Alerg și observ că nu are intenția de a ateriza, așa că mă întorc către casă, când observ o cabană cu ușa larg deschisă. Să îmi incerc norocul?
+-1, -1
+112111, Da
+11212, Nu
+==================
+112111, În interiorul cabanei, observ 2 camere închise cu un lacăt. Ranga mea mai ține doar pentru o ușă. Pe care sa o aleg?
+-2, -2
+1121111, dreapta
+1121112, stânga
+-
+-
+==================
+1121111, Era bucătaria.
+12, 15
+11212, Mă îndrept spre casă.
+-
+-
+- 
+==================
+1121112, O simplă debara destul de goală, dar nu a fost în zadar. Am găsit ceva folositor.
+8, 10
+11212, Mă îndrept spre casă.
+-
+-
+- 
+==================
+11212, Mai spre seară, în timp ce ma jucam cu câinele, un cutremur îmi distruge casa. Trebuie să caut alta...
+0, 0
+11221, Merg pe autostradă.
+11222, Caut ceva prin oraș.
+-
+-
+==================
+11221, Găsesc un cimitir de mașini. Acolo observ o motocicletă care are nevoie doar de puțină motorină ca să poată fi utilizată.
+0, 0
+112211, Caut motorină la alte mașini.
+112212, Las motocicleta și îmi continui drumul.
+-
+-
+==================
+11222, Tot orașul este distrus.
+-1, -1
+11221, Părăsesc orașul.
+-
+-
+-
+==================
+112211
+==================
+112212
+==================
+
+1122, --- Ziua 3. Un cutremur dărîmă aproape toată casa. Trebuie să îmi găsesc altă locuință.
+-5, -7
+11221, Merg pe autostradă.
+11222, Caut ceva prin oraș.
+-
+-
+==================

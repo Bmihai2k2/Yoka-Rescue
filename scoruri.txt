@@ -1,0 +1,7 @@
+rad, 2
+fff, 2
+sw, 2
+sd, 5
+s, 5
+Bmihai, 2
+sergiu, 5

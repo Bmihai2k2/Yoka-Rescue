@@ -1,0 +1,42 @@
+Ziua 3.
+==================
+1~De dimineață simt o biză de vânt destul de puternică care mă trezește rapid. Îmi strâng
+\lucrurile iau cortu și ma duc la pas prin pădure. Pe drum mă întâlnesc cu doi tipi care 
+\păreau destul de ok. Ei mă intreabă încotro o i-au..
+\Eu le ic că nu am o destinație anume. Atunci ei îmi sugereaza să mă duc cu ei...
+0~0
+11~Dar unde mergeți ?~0~0
+12~Ok de ce nu.~0~0
+13~Nu mulțumesc mă descurc și singur~-1~-1
+- 
+==================
+11~Au zis că se duc de unde vin eu..
+0~0
+13~să le zic că nu e nimic acolo~0~0
+13~să le zic ca e loc sigur acolo~0~0
+-
+-
+==================
+12~Ei vor să meargă în direcția din care vin eu
+0~0
+13~să le zic că nu e nimic acolo~0~0
+13~să le zic ca e loc sigur acolo~0~0
+-
+-
+==================
+13~Am scăpat de ei, deocamdată, s-ar putea să se întoarcă
+0~0
+131~să încep să alerg~-2~-2
+131~să o iau la fugă in altă direcție~-4~-4
+-
+-
+==================
+131~Mai spre seară, într--o casă găsesc o hartă unde era încercuit cu roșu un oraș.
+\Districtul Domdon... Aș putea să mă duc spre el că și așa nu am ce pierde. 
+\”Vorba multă sărăcia omului” văd ceva lumini prin pădure, sunt șanse să fie tipii pe care 
+\ nu de mult i-am întâlnit.
+0~0
+@4~Ia-o la fugă către Domdon~-7~-5
+-
+-
+-

@@ -1,0 +1,62 @@
+Ziua 5.
+==================
+1~Ajuns la D.Domdon observ că e ... GOL.NIMIC.Mă așteptam la asta dar totuși aveam o mica
+\speranță că v-a fi cineva acolo.
+0~0
+11~Să încep să caut prin bază~-3~-3
+12~Să trec pe lângă ea și să găsesc o ieșire din oraș~-2~-2
+13~Să încep să caut ceva prin oraș~-5~-5
+14~Să trimit câinele în bază și să îl aștept~-1~-1
+==================
+11~Găsesc un garaj unde este o bicicletă la care dacă găsesc un lanț e gata de drum...
+0~0
+12~să caut lanțu și să plec~-1~-1
+112~să caut lanțul și să mai caut ceva de mâncare~-2~-2
+12~să las bicicleta și să plec~0~0
+112~să las bicicleta și să mai caut ceva prin bază~-1~1
+==================
+14~Nu se mai întoarce. Mă îmgijorez și mă duc după el. Îl văd, mă duc spre el. Acolo găsesc \un garaj unde este o bicicletă la care dacă găsesc un lanț e gata de drum...
+0~0
+111~să caut lanțu și să plec~-1~-1
+112~să caut lanțul și să mai caut ceva de mâncare~-2~-2
+113~să las bicicleta și să plec~0~0
+114~să las bicicleta și să mai caut ceva prin bază~-1~1
+==================
+13~Orășelul pare destul de prietenos, mă apropii încet de secție de polție. Dau să deschid ușile
+\și înăuntru erau 4 indivizi care mâncau, Nici măcar binețe nu pot să zic, deoarece câinii lui
+\s-au repezit la picioarele mele. Cu o ultimă suflare îi strig câinelui...
+\                                                                   FUGI
+0~0
+&1~Joc nou.~0~0
+-
+-
+-
+==================
+112~Puțină apă. Mai bine decât deloc.La ieșirea din oraș văd o poză cu un loc iar deasupra lui câteva indicații...
+5~3
+121~Să le urmez~-4~-4
+122~Să caut altceva continuând drumul pe stradă~-2~-2
+-
+-
+==================
+12~La ieșirea din oraș văd o poză cu un loc iar deasupra lui câteva indicații...
+0~0
+121~Să le urmez~-4~-4
+122~Să caut altceva continuând drumul pe stradă~-2~-2
+-
+-
+==================
+122~Ajung la o răscruce de drumuri..
+0~0
+121~să o iau în dreapta~0~0
+121~să o iau în față~0~0
+121~să o iau în stânga~0~0
+-
+==================
+121~Se tot întunecă dar în apropiere văd lumini ca la o petrecere. Încerc să mă
+\apropii dar aud ceva în spatele meu. Nu apuc să mă întorc că totul devine vis. 
+0~0
+&1~Bravo ai terminat prima parte a jocului~0~0
+-
+-
+-

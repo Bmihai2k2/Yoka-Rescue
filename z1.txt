@@ -1,0 +1,32 @@
+Ziua 1.
+==================
+1~Deja încep să ramân fără provizii. Ar fi bine sa ies afara. Să ies? 
+0~0~cu cât se modifică mâncarea și apa
+11~Da~-2~-2
+@2~Aștept ziua de mâine~-5~-7
+-
+-
+==================
+11~Plimbându-mă prin oraș am găsit un spital destul de mare și văd un geam pe unde încap.
+\Să îmi asum acest risc?
+0~0
+111~Da~-2~-2
+@2~Mă întorc acasă, aștept ziua de mâine~-5~-7
+113~Mai dau o tură, că poate găsesc o intrare mai sigură~-1~-1
+-
+==================
+111~După 10 minute observ pe un hol o lumină si o umbră de geantă.Mă apropii si văd 
+\că a mai rămas ceva prin ea.
+10~10
+@2~Mă întorc acasă, aștept ziua de mâine~-2~-2
+-
+-
+-
+==================
+113~În spate este o ușă pe unde pot intra mai bine.După 10 minute observ pe un hol o lumină 
+\si o umbră de geantă.Mă apropii si văd că a mai rămas ceva prin ea.
+10~10
+@2~Mă întorc acasă, aștept ziua de mâine~-2~-2
+-
+-
+-

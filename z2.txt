@@ -1,0 +1,79 @@
+Ziua 2.
+==================
+1~Aud sunete ciudate, să arunc o privire?
+0~0
+11~Da~-1~-1
+12~Nu~0~0
+-
+-
+==================
+11~Ieșit afară observ un elicopter care trece in viteză pe deasupra mea.
+\Încerc să îi atrag atentia dar nu reușesc.
+\Să îl urmăresc ca poate v-a ateriza pe aeroportul din apropiere ?
+0~0
+111~Da~-1~-1
+12~Nu~0~0
+-
+-
+==================
+111~Alerg și observ că nu are intenția de a ateriza, așa că mă întorc către casă,
+\când observ o cabană cu ușa larg deschisă. Să îmi incerc norocul?
+0~0
+1111~Da~-2~-2
+12~Nu~0~0
+-
+-
+==================
+1111~În interiorul cabanei, observ 2 camere închise cu un lacăt.
+\Ranga mea mai ține doar pentru o ușă. Pe care sa o aleg?
+0~0
+11111~dreapta~-2~-2
+11112~stânga~-2~-2
+-
+-
+==================
+11111~Era bucătaria.
+12~15
+12~Mă îndrept spre casă.~0~0
+-
+-
+- 
+==================
+11112~O simplă debara destul de goală, dar nu a fost în zadar. Am găsit ceva folositor.
+8~10
+12~Mă îndrept spre casă.~0~0
+-
+-
+- 
+==================
+12~Mai spre seară, în timp ce ma jucam cu câinele, un cutremur îmi distruge casa.
+\Trebuie să caut alta...
+0~0
+121~Merg pe autostradă.~-2~-2
+122~Caut ceva prin oraș.~-2~-2
+-
+-
+==================
+121~Găsesc un cimitir de mașini. Acolo observ o motocicletă care are nevoie doar de puțină
+\motorină ca să poată fi utilizată.
+1~1
+1211~Caut motorină la alte mașini.~-1~-1
+@3~Las motocicleta și îmi continui drumul.~-5~-5
+-
+-
+==================
+122~Tot orașul este distrus.
+0~0
+@3~Părăsesc orașul.~-2~-2
+-
+-
+-
+==================
+1211~Primul vehicul dupa toată apocalipsa asta. Plimbându-mă pe drum observ o căprioară.
+\Cu gândul că v-a sări în pădure nu am redus viteza dar întâmplarea face ca ea să nu sară
+\astfel eu trebuind să o ocolesc sărind cu motocicleta într-un șant...      DEAD 
+0~0
+&1~Joc nou.~0~0
+-
+-
+-
